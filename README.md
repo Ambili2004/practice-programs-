@@ -11,13 +11,13 @@ A simple, interactive command-line calculator built in Python that supports basi
 ## 📸 Preview
 
 ```
-PS C:\Users\Ambili Rajan> 4+4
+PS C:\Users\user1> 4+4
 8
-PS C:\Users\Ambili Rajan> 44+8
+PS C:\Users\user1> 44+8
 52
-PS C:\Users\Ambili Rajan> 90*50
+PS C:\Users\user1> 90*50
 4500
-PS C:\Users\Ambili Rajan> 600/50
+PS C:\Users\user1> 600/50
 12
 ```
 
@@ -109,8 +109,7 @@ Contributions are welcome! Here's how:
 ---
 
 ## 👩‍💻 Author
-
-**Ambili Rajan**  
+ 
 Feel free to connect and contribute!
 
 ---
