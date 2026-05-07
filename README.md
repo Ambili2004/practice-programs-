@@ -42,22 +42,6 @@ No external libraries required — uses only Python's built-in modules.
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/python-calculator.git
-cd python-calculator
-```
-
-### 2. Run the Calculator
-
-```bash
-python program1.py
-```
-
----
 
 ## 📖 Usage
 
